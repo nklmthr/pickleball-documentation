@@ -19,6 +19,16 @@ The user can go the sessions listing page.
 On clicking of any sesssion details, the user is taken to session details page where he can view members and matches.
 <img width="1512" height="757" alt="image" src="https://github.com/user-attachments/assets/36e0b9fc-85fc-4c9b-943c-a4e3b314f2da" />
 
+On the session details page, the user has options for sharing the same on social media.
+<img width="1512" height="757" alt="image" src="https://github.com/user-attachments/assets/d3ce5c84-41e2-4f11-98e8-6ee7bff1f9cb" />
+
+On clincking of the share option, the details are auto populated.
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/51deb949-39e5-4289-b035-443768bb4bcd" />
+
+The details are auto populated for social media as well.
+<img width="1278" height="394" alt="image" src="https://github.com/user-attachments/assets/73b51848-dea7-4880-b8f0-307da4db5020" />
+
+
 A user can join or leave sessions
 <img width="1512" height="757" alt="image" src="https://github.com/user-attachments/assets/9b775a14-6beb-407e-8a17-4b0e791124a5" />
 
